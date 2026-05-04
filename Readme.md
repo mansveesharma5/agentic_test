@@ -2,7 +2,7 @@
 
 # Prerequisites
 
--Python3.x.x
+-Python3.x.x <br>
 -Gemini API Key
 
 # Installation
@@ -24,7 +24,7 @@ v_env\Scripts\activate.bat
 Win - PS
 
 ```bash
-v_env\Scripts\activate.ps
+v_env\Scripts\Activate.ps1
 ```
 (Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned) ; (& d:\mansvee\my_genai_app\v_env\Scripts\Activate.ps1)
 
